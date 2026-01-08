@@ -25,3 +25,9 @@ In real projects, DevOps helps reduce deployment failures and speeds up releases
 ## Daily Progress
 - Day 1: DevOps Introduction ✔
 - Day 2: Linux & CLI Basics (In Progress)
+
+
+
+
+## Goal
+To become job-ready for a DevOps role by building hands-on projects and understanding real-world DevOps workflows.
